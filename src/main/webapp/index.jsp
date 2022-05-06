@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World from Distelli!</h2>
-<p>You have successfully deployed the tomcat-war repository. Good Job!</p>
+<p>we have succesfully deployed ansible webapp via tomcat!</p>
 </body>
 </html>
